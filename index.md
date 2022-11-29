@@ -33,7 +33,7 @@ Mostly skilled with system hacking (pwn).
 `2018 - Now`
 Undergraduate, Dept. of CSE, POSTECH(Pohang University of Science and Technology)
 
-#### Expected graduation
+### Expected graduation
 Feb. 2024
 
 ## Remarks
